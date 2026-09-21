@@ -1,6 +1,7 @@
 # Khushboo Joshi — Personal Portfolio
 
 A modern, interactive developer portfolio showcasing my work in full-stack development, AI/GenAI, and creative web experiences.
+<br>
 Live link:[Live Demo](https://newportfolio-q748h6hvm-joshikhushboos-projects.vercel.app/)
 ## ✨ Features
 
