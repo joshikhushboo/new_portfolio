@@ -4,6 +4,7 @@ import gsap from "gsap";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
 import { FaGithub, FaInstagram, FaLinkedin } from "react-icons/fa";
 import "./App.css";
+import photo from "./assets/photo.png";
 
 gsap.registerPlugin(ScrollTrigger);
 
@@ -447,9 +448,9 @@ return () => {
     <div className="about-shape"></div>
 
     <img
-      src="/src/assets/photo.png"
-      alt="Khushboo Joshi"
-    />
+  src={photo}
+  alt="Khushboo Joshi"
+/>
   </div>
 
   <div className="about-content">
