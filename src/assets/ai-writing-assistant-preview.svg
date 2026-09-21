@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-labelledby="title desc">
+  <title id="title">AI Writing Assistant project preview</title>
+  <desc id="desc">A warm editorial writing interface preview with a document and AI suggestion panel.</desc>
+  <rect width="720" height="520" rx="24" fill="#ebe8e2"/>
+  <rect x="32" y="32" width="656" height="456" rx="18" fill="#fcfbf8" stroke="#cfcac0" stroke-width="2"/>
+  <rect x="62" y="70" width="118" height="18" rx="9" fill="#292621"/>
+  <rect x="62" y="128" width="360" height="14" rx="7" fill="#292621"/>
+  <rect x="62" y="162" width="294" height="11" rx="5" fill="#c7c1b7"/>
+  <rect x="62" y="212" width="314" height="9" rx="4" fill="#b7b0a5"/>
+  <rect x="62" y="238" width="342" height="9" rx="4" fill="#b7b0a5"/>
+  <rect x="62" y="264" width="280" height="9" rx="4" fill="#b7b0a5"/>
+  <rect x="62" y="316" width="322" height="9" rx="4" fill="#b7b0a5"/>
+  <rect x="62" y="342" width="252" height="9" rx="4" fill="#b7b0a5"/>
+  <rect x="456" y="128" width="194" height="238" rx="14" fill="#e5e2dc"/>
+  <circle cx="486" cy="162" r="12" fill="#2e9d5b"/>
+  <rect x="512" y="155" width="94" height="14" rx="7" fill="#292621"/>
+  <rect x="480" y="206" width="136" height="9" rx="4" fill="#a8a197"/>
+  <rect x="480" y="232" width="116" height="9" rx="4" fill="#a8a197"/>
+  <rect x="480" y="274" width="144" height="44" rx="10" fill="#fff" stroke="#cfcac0"/>
+  <rect x="496" y="291" width="92" height="9" rx="4" fill="#2e9d5b"/>
+</svg>

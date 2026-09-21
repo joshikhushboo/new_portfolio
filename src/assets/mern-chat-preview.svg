@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-labelledby="title desc">
+  <title id="title">MERN Chat project preview</title>
+  <desc id="desc">A monochrome real-time chat interface preview with conversation bubbles.</desc>
+  <rect width="720" height="520" rx="24" fill="#e7e7e7"/>
+  <rect x="32" y="32" width="656" height="456" rx="18" fill="#fafafa" stroke="#bdbdbd" stroke-width="2"/>
+  <rect x="62" y="70" width="138" height="18" rx="9" fill="#111"/>
+  <rect x="62" y="126" width="174" height="310" rx="14" fill="#ededed"/>
+  <circle cx="96" cy="166" r="18" fill="#bdbdbd"/>
+  <rect x="128" y="157" width="76" height="12" rx="6" fill="#444"/>
+  <circle cx="96" cy="222" r="18" fill="#bdbdbd"/>
+  <rect x="128" y="213" width="62" height="12" rx="6" fill="#777"/>
+  <rect x="270" y="126" width="348" height="310" rx="14" fill="#fff" stroke="#dedede"/>
+  <rect x="302" y="164" width="154" height="38" rx="18" fill="#ededed"/>
+  <rect x="418" y="226" width="164" height="38" rx="18" fill="#111"/>
+  <rect x="302" y="288" width="188" height="38" rx="18" fill="#ededed"/>
+  <rect x="302" y="382" width="254" height="12" rx="6" fill="#d0d0d0"/>
+</svg>

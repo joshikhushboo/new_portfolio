@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 520" role="img" aria-labelledby="title desc">
+  <title id="title">PlantScan project preview</title>
+  <desc id="desc">A green plant analysis dashboard preview with a leaf illustration and health score.</desc>
+  <rect width="720" height="520" rx="24" fill="#eaf3e6"/>
+  <rect x="32" y="32" width="656" height="456" rx="18" fill="#f8fbf6" stroke="#b9d6bb" stroke-width="2"/>
+  <circle cx="76" cy="76" r="9" fill="#2e9d5b"/>
+  <rect x="100" y="67" width="132" height="18" rx="9" fill="#15251b"/>
+  <rect x="548" y="66" width="92" height="20" rx="10" fill="#dcebd8"/>
+  <rect x="72" y="132" width="270" height="290" rx="16" fill="#dcebd8"/>
+  <path d="M207 350c-42-74-19-153 38-188 20 59 0 127-38 188Z" fill="#2e9d5b"/>
+  <path d="M206 350c41-72 91-97 145-91-15 61-74 96-145 91Z" fill="#78b77e"/>
+  <path d="M206 350 245 185" fill="none" stroke="#173b25" stroke-width="8" stroke-linecap="round"/>
+  <rect x="378" y="140" width="224" height="20" rx="10" fill="#15251b"/>
+  <rect x="378" y="180" width="168" height="13" rx="6" fill="#a6b8a7"/>
+  <circle cx="426" cy="286" r="58" fill="#e2f1e1" stroke="#2e9d5b" stroke-width="12"/>
+  <text x="426" y="298" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#173b25">92%</text>
+  <rect x="378" y="380" width="224" height="12" rx="6" fill="#b9d6bb"/>
+</svg>
