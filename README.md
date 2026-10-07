@@ -2,7 +2,7 @@
 
 A modern, interactive developer portfolio showcasing my work in full-stack development, AI/GenAI, and creative web experiences.
 <br>
-Live link:[Live Demo](https://newportfolio-q748h6hvm-joshikhushboos-projects.vercel.app/)
+Live link:[Live Demo](https://newportfolio-nu-seven.vercel.app/)
 ## ✨ Features
 
 - Modern editorial-style UI
